@@ -1,0 +1,6 @@
+region          = "us-east-2"
+ntier_vpc_range = "192.168.0.0/16"
+ntier_app1_cidr = "192.168.0.0/24"
+ntier_app2_cidr = "192.168.1.0/24"
+ntier_db1_cidr  = "192.168.2.0/24"
+ntier_db2_cidr  = "192.168.3.0/24"
